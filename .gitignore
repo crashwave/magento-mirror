@@ -10,3 +10,4 @@
 /media/*
 /app/etc/use_cache.ser
 local.xml
+.htaccess
